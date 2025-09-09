@@ -1,4 +1,4 @@
- # Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game
 
 This is an engaging and interactive **Tic Tac Toe** game built using React. The game provides a fun way to play the classic Tic Tac Toe with smooth UI and responsive design.
 
